@@ -1,8 +1,8 @@
 ---
 title: 定制hexo-theme-next
 date: 2025-08-19 23:25:27
-tags: next-theme
-categories: hexo
+tags: hexo-next
+categories: 编程
 ---
 
 ### 过滤指定文章
