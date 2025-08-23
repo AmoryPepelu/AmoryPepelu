@@ -4,7 +4,8 @@ date: 2025-08-21 20:54:16
 tags: maven
 categories: 编程
 ---
-配置
+maven-publish插件配置
+<!-- more -->
 
 ```
 apply plugin: 'maven-publish'

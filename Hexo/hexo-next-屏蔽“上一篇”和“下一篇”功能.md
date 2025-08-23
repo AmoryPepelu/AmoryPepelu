@@ -1,5 +1,5 @@
 ---
-title: hexo-next:屏蔽“上一篇”和“下一篇”功能
+title: 定制hexo-next:屏蔽“上一篇”和“下一篇”功能
 date: 2025-08-22 23:49:39
 tags: next
 categories: hexo

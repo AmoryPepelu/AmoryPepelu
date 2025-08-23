@@ -1,5 +1,5 @@
 ---
-title: 在Hexo-Next主题中去除文章目录的自动编号
+title: 定制hexo-next:去除文章目录的自动编号
 date: 2025-08-22 08:38:52
 tags: next
 categories: hexo
